@@ -13,22 +13,22 @@ function Tabs(props) {
         {
             name: 'Pizza',
             icon:<CiPizza></CiPizza>,
-            id:'0209cb28fc05320434e2916988f47b71'
+            id:''
         },
         {
             name: 'Noodels',
             icon:<GiNoodles></GiNoodles>,
-            id:'31c5de9edb4e2e9cc47997030647930d'
+            id:''
         },
         {
             name: 'Desert',
             icon:<GiFruitBowl></GiFruitBowl>,
-            id:'eb3e2b49525a0c8ce7327436f843321a'
+            id:''
         },
         {
             name: 'Ice cream',
             icon:<MdOutlineIcecream></MdOutlineIcecream>,
-            id:'480fd56ab4d71c204c2b75e16edbbd21'
+            id:''
         },
      ])
      const handelClick=(name, id)=>{
